@@ -8,6 +8,8 @@
 **Platform**: PostgreSql
 
 This project demonstrates the implementation of a **Library Management System** using SQL. The system allows managing and tracking library resources such as branches, employees, members, books, issued books, and return statuses. The project involves setting up a database, performing CRUD operations, creating advanced SQL queries, and ensuring the proper functioning of the library management system.
+![Uploading image.png…]()
+
 
 ### Features:
 - Creation and management of tables.
@@ -30,6 +32,8 @@ This project demonstrates the implementation of a **Library Management System** 
 ## Project Structure
 
 ### 1. **Database Setup**
+![image](https://github.com/user-attachments/assets/f764c360-2e80-4478-ac05-a3af9f1c6c4b)
+
 
 - **ERD**:  
   The database design includes an **Entity-Relationship Diagram (ERD)** that represents the relationships between different entities in the library system.
