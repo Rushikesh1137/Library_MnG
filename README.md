@@ -8,7 +8,7 @@
 **Platform**: PostgreSql
 
 This project demonstrates the implementation of a **Library Management System** using SQL. The system allows managing and tracking library resources such as branches, employees, members, books, issued books, and return statuses. The project involves setting up a database, performing CRUD operations, creating advanced SQL queries, and ensuring the proper functioning of the library management system.
-![Uploading image.png…]()
+
 
 
 ### Features:
